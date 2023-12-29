@@ -1,0 +1,17 @@
+.note {
+  background: #fef68a;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 1rem;
+  margin-bottom: 10px;
+  min-height: 170px;
+  border-radius: 10px;
+  border: 1px solid lightgray;
+  white-space: pre-wrap;
+}
+.note-footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}

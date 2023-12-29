@@ -1,0 +1,26 @@
+.save {
+  border-radius: 15px;
+  border: none;
+  background: #e1e1e1;
+  float: right;
+  padding: 5px 10px 5px 10px;
+}
+
+.add_note.note {
+  background: #67d7cc;
+}
+textarea {
+  background: #67d7cc;
+  outline: none;
+  border: none;
+}
+
+div .add_footer {
+  background: #67d8ab;
+}
+
+textarea:focus {
+  border: none;
+  color: black;
+  font-family: bold;
+}
